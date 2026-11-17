@@ -7,7 +7,7 @@
 ## 🧭 Navigasi Katalog Proyek
 
 | No | Nama Proyek & Tautan | Domain / Industri | Alat & Teknologi | Output Utama | Status |
-| :-: | :--- | :--- | :--- | :--- | :--- | :-: |
+| :-: | :--- | :--- | :--- | :--- | :-: |
 | **01** | [🏙️ Jakarta Air Quality & Mobility Analysis](https://github.com/Adnin03/jakarta-air-quality-mobility-analysis) | Smart City & Lingkungan | `Python` `REST API` `Power BI` `DAX` | Interactive Dashboard, Pipeline ETL, Rekomendasi Kebijakan | **Completed** ✅ |
 | **02** | [🎮 Steam Gaming Market Intelligence](https://github.com/Adnin03/steam-market-intelligence) | Gaming & Strategi Komersial | `Python` `Pandas` `Power BI` `DAX` | Executive Dashboard, Optimasi Harga, Segmentasi Model Bisnis | **Completed** ✅ |
 
